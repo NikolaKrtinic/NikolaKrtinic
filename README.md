@@ -24,6 +24,7 @@ A production shopping platform used by thousands of users. The mobile app covers
 - Upgraded the app from **Expo SDK 54 to 57**, including config, dependency and compatibility fixes.
 - **Improved app stability and performance** through a screen-by-screen audit, fixing keyboard and input-visibility issues, eliminating unnecessary re-renders and addressing cross-platform inconsistencies. This freed the team to focus on new features and keep mobile aligned with web.
 - Built reusable UI components and improved the app's structure.
+- Investigated and fixed production issues, refactored code, removed unused dependencies and reduced technical debt.
 - Mobile stack: Redux, React Query, Zustand, TypeScript and REST APIs.
 - Also worked on the **web shop**, built with **Vue 2**, Twig and PHP.
 - When work was blocked on the backend, I often found my way around the **PHP/Symfony** codebase and made the changes myself, unblocking both my own tasks and my teammates'.
